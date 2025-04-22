@@ -1,0 +1,122 @@
+[
+  {
+    "id": "karaoke",
+    "name": "Karaoke",
+    "x": 7.9,
+    "y": 35.8,
+    "description": "Karaoke",
+    "icon": "karaoke.png"
+  },
+  {
+    "id": "london-public-library",
+    "name": "London Public Library",
+    "x": 24.7,
+    "y": 35.8,
+    "description": "London Public Library",
+    "icon": "london-public-library.png"
+  },
+  {
+    "id": "photo-booth",
+    "name": "Photo Booth",
+    "x": 35,
+    "y": 4,
+    "description": "Photo Booth",
+    "icon": "photo-booth.png"
+  },
+  {
+    "id": "temporary-tattoos",
+    "name": "Temporary Tattoos",
+    "x": 35,
+    "y": 35.8,
+    "description": "Temporary Tattoos",
+    "icon": "temporary-tattoos.png"
+  },
+  {
+    "id": "colouring-room",
+    "name": "Colouring Room",
+    "x": 50,
+    "y": 35.8,
+    "description": "Colouring Room",
+    "icon": "colouring-room.png"
+  },
+  {
+    "id": "admission-tables",
+    "name": "Admission Tables",
+    "x": 65,
+    "y": 18,
+    "description": "Admission Tables",
+    "icon": "admission-tables.png"
+  },
+  {
+    "id": "book-toy-sale",
+    "name": "Used Book Sale and Toy Sale",
+    "x": 85,
+    "y": 18,
+    "description": "Used Book Sale and Toy Sale",
+    "icon": "book-toy-sale.png"
+  },
+  {
+    "id": "food-and-activities",
+    "name": "Food & Activities",
+    "x": 85,
+    "y": 41,
+    "description": "Pizza, Chips, Water and Juice Boxes\nBasket Bonanza\nMystery Bags\nStallion Jibbitz\nCandy Table\nCotton Candy\nDJ\nUsed Clothing Donation",
+    "icon": "food-and-activities.png"
+  },
+  {
+    "id": "silent-auction",
+    "name": "Silent Auction",
+    "x": 48,
+    "y": 44.5,
+    "description": "Silent Auction",
+    "icon": "silent-auction.png"
+  },
+  {
+    "id": "human-slot-machine",
+    "name": "Human Slot Machine",
+    "x": 48,
+    "y": 52.7,
+    "description": "Human Slot Machine",
+    "icon": "human-slot-machine.png"
+  },
+  {
+    "id": "lets-talk-science",
+    "name": "Let\u2019s Talk Science",
+    "x": 48,
+    "y": 59.6,
+    "description": "Let\u2019s Talk Science",
+    "icon": "lets-talk-science.png"
+  },
+  {
+    "id": "childrens-museum",
+    "name": "Children\u2019s Museum",
+    "x": 48,
+    "y": 68.3,
+    "description": "Children\u2019s Museum",
+    "icon": "childrens-museum.png"
+  },
+  {
+    "id": "cornhole",
+    "name": "Cornhole",
+    "x": 48,
+    "y": 88.9,
+    "description": "Cornhole",
+    "icon": "cornhole.png"
+  },
+  {
+    "id": "target-golf",
+    "name": "Target Golf",
+    "x": 48,
+    "y": 96.5,
+    "description": "Target Golf",
+    "icon": "target-golf.png"
+  },
+  {
+    "id": "bottle-flip",
+    "name": "Bottle Flip",
+    "x": 86,
+    "y": 94,
+    "description": "Bottle Flip",
+    "icon": "bottle-flip.png"
+  }
+]
