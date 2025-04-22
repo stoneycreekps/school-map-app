@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/school-map-app/static/css/main.f2867987.css",
-    "main.js": "/school-map-app/static/js/main.61d282fa.js",
+    "main.css": "/school-map-app/static/css/main.a171507d.css",
+    "main.js": "/school-map-app/static/js/main.353612cb.js",
     "index.html": "/school-map-app/index.html",
-    "main.f2867987.css.map": "/school-map-app/static/css/main.f2867987.css.map",
-    "main.61d282fa.js.map": "/school-map-app/static/js/main.61d282fa.js.map"
+    "main.a171507d.css.map": "/school-map-app/static/css/main.a171507d.css.map",
+    "main.353612cb.js.map": "/school-map-app/static/js/main.353612cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2867987.css",
-    "static/js/main.61d282fa.js"
+    "static/css/main.a171507d.css",
+    "static/js/main.353612cb.js"
   ]
 }

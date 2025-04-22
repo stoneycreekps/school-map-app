@@ -4,7 +4,7 @@
     "name": "Karaoke",
     "x": 7.9,
     "y": 35.8,
-    "description": "Karaoke",
+    "description": "Room 109",
     "icon": "karaoke.png"
   },
   {
@@ -12,15 +12,15 @@
     "name": "London Public Library",
     "x": 24.7,
     "y": 35.8,
-    "description": "London Public Library",
+    "description": "Room 110",
     "icon": "london-public-library.png"
   },
   {
     "id": "photo-booth",
     "name": "Photo Booth",
     "x": 35,
-    "y": 4,
-    "description": "Photo Booth",
+    "y": 7,
+    "description": "Room 102 (Staff Room)",
     "icon": "photo-booth.png"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Temporary Tattoos",
     "x": 35,
     "y": 35.8,
-    "description": "Temporary Tattoos",
+    "description": "Room 111",
     "icon": "temporary-tattoos.png"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Colouring Room",
     "x": 50,
     "y": 35.8,
-    "description": "Colouring Room",
+    "description": "Room 112",
     "icon": "colouring-room.png"
   },
   {
@@ -44,77 +44,77 @@
     "name": "Admission Tables",
     "x": 65,
     "y": 18,
-    "description": "Admission Tables",
+    "description": "Front Forum",
     "icon": "admission-tables.png"
   },
   {
     "id": "book-toy-sale",
     "name": "Used Book Sale and Toy Sale",
     "x": 85,
-    "y": 18,
-    "description": "Used Book Sale and Toy Sale",
+    "y": 11.5,
+    "description": "Library",
     "icon": "book-toy-sale.png"
   },
   {
     "id": "food-and-activities",
-    "name": "Food & Activities",
+    "name": "Food & Activities (Gymnasium)",
     "x": 85,
-    "y": 41,
+    "y": 35,
     "description": "Pizza, Chips, Water and Juice Boxes\nBasket Bonanza\nMystery Bags\nStallion Jibbitz\nCandy Table\nCotton Candy\nDJ\nUsed Clothing Donation",
     "icon": "food-and-activities.png"
   },
   {
     "id": "silent-auction",
     "name": "Silent Auction",
-    "x": 48,
-    "y": 44.5,
-    "description": "Silent Auction",
+    "x": 52,
+    "y": 42.5,
+    "description": "Room 120",
     "icon": "silent-auction.png"
   },
   {
     "id": "human-slot-machine",
     "name": "Human Slot Machine",
-    "x": 48,
-    "y": 52.7,
-    "description": "Human Slot Machine",
+    "x": 52,
+    "y": 50.7,
+    "description": "Room 121",
     "icon": "human-slot-machine.png"
   },
   {
     "id": "lets-talk-science",
     "name": "Let\u2019s Talk Science",
-    "x": 48,
-    "y": 60.6,
-    "description": "Let\u2019s Talk Science",
+    "x": 52,
+    "y": 58.6,
+    "description": "Room 122",
     "icon": "lets-talk-science.png"
   },
   {
     "id": "childrens-museum",
     "name": "Children\u2019s Museum",
-    "x": 48,
-    "y": 68.3,
-    "description": "Children\u2019s Museum",
+    "x": 52,
+    "y": 66.3,
+    "description": "Room 123",
     "icon": "childrens-museum.png"
   },
   {
     "id": "cornhole",
     "name": "Cornhole",
-    "x": 48,
-    "y": 88.9,
-    "description": "Cornhole",
+    "x": 52,
+    "y": 86.9,
+    "description": "Room 138",
     "icon": "cornhole.png"
   },
   {
     "id": "target-golf",
     "name": "Target Golf",
-    "x": 48,
-    "y": 96.5,
-    "description": "Target Golf",
+    "x": 52,
+    "y": 94.5,
+    "description": "Room 139",
     "icon": "target-golf.png"
   },
   {
     "id": "bottle-flip",
     "name": "Bottle Flip",
-    "x": 86,
+    "x": 84.5,
     "y": 94,
     "description": "Bottle Flip",
     "icon": "bottle-flip.png"
