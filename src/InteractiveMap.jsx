@@ -8,7 +8,7 @@ const hotspots = [
     x: 30,
     y: 40,
     description: "Quiet area with books and computers.",
-    icon: "/icons/library.png"
+    icon: `${process.env.PUBLIC_URL}/icons/library.png`
   },
   {
     id: "cafeteria",
@@ -16,7 +16,7 @@ const hotspots = [
     x: 60,
     y: 70,
     description: "Food and drink available here.",
-    icon: "/icons/cafeteria.png"
+    icon: `${process.env.PUBLIC_URL}/icons/cafeteria.png`
   }
 ];
 
@@ -30,7 +30,7 @@ export default function InteractiveMap() {
   return (
     <div className="relative w-full max-w-screen-sm mx-auto">
       <img
-        src="/school-map.png"
+        src={`${process.env.PUBLIC_URL}/school-map.png`}
         alt="School Map"
         className="w-full h-auto"
       />
