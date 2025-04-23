@@ -91,7 +91,7 @@
     "id": "childrens-museum",
     "name": "Children\u2019s Museum",
     "x": 52,
-    "y": 67.3,
+    "y": 67.5,
     "description": "Room 123",
     "icon": "childrens-museum.png"
   },
@@ -115,7 +115,7 @@
     "id": "bottle-flip",
     "name": "Bottle Flip",
     "x": 85.2,
-    "y": 92.6,
+    "y": 93,
     "description": "Room 140",
     "icon": "bottle-flip.png"
   }
