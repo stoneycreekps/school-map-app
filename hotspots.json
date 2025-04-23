@@ -19,7 +19,7 @@
     "id": "photo-booth",
     "name": "Photo Booth",
     "x": 35,
-    "y": 6.5,
+    "y": 6.6,
     "description": "Room 102 (Staff Room)",
     "icon": "photo-booth.png"
   },
@@ -50,7 +50,7 @@
   {
     "id": "book-toy-sale",
     "name": "Used Book Sale and Toy Sale",
-    "x": 85,
+    "x": 85.5,
     "y": 20.5,
     "description": "Library",
     "icon": "book-toy-sale.png"
@@ -58,7 +58,7 @@
   {
     "id": "food-and-activities",
     "name": "Food & Activities (Gymnasium)",
-    "x": 85,
+    "x": 85.5,
     "y": 44,
     "description": "Pizza, Chips, Water and Juice Boxes\nBasket Bonanza\nMystery Bags\nStallion Jibbitz\nCandy Table\nCotton Candy\nDJ\nUsed Clothing Donation",
     "icon": "food-and-activities.png"
