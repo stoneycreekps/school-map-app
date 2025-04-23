@@ -51,7 +51,7 @@
     "id": "book-toy-sale",
     "name": "Used Book Sale and Toy Sale",
     "x": 85,
-    "y": 11.5,
+    "y": 20.5,
     "description": "Library",
     "icon": "book-toy-sale.png"
   },
@@ -59,7 +59,7 @@
     "id": "food-and-activities",
     "name": "Food & Activities (Gymnasium)",
     "x": 85,
-    "y": 35,
+    "y": 44,
     "description": "Pizza, Chips, Water and Juice Boxes\nBasket Bonanza\nMystery Bags\nStallion Jibbitz\nCandy Table\nCotton Candy\nDJ\nUsed Clothing Donation",
     "icon": "food-and-activities.png"
   },
@@ -67,7 +67,7 @@
     "id": "silent-auction",
     "name": "Silent Auction",
     "x": 52,
-    "y": 42.5,
+    "y": 43.5,
     "description": "Room 120",
     "icon": "silent-auction.png"
   },
@@ -75,7 +75,7 @@
     "id": "human-slot-machine",
     "name": "Human Slot Machine",
     "x": 52,
-    "y": 50.7,
+    "y": 51.7,
     "description": "Room 121",
     "icon": "human-slot-machine.png"
   },
@@ -83,7 +83,7 @@
     "id": "lets-talk-science",
     "name": "Let\u2019s Talk Science",
     "x": 52,
-    "y": 58.6,
+    "y": 59.5,
     "description": "Room 122",
     "icon": "lets-talk-science.png"
   },
@@ -91,7 +91,7 @@
     "id": "childrens-museum",
     "name": "Children\u2019s Museum",
     "x": 52,
-    "y": 66.3,
+    "y": 67.3,
     "description": "Room 123",
     "icon": "childrens-museum.png"
   },
@@ -99,7 +99,7 @@
     "id": "cornhole",
     "name": "Cornhole",
     "x": 52,
-    "y": 86.9,
+    "y": 87.9,
     "description": "Room 138",
     "icon": "cornhole.png"
   },
@@ -107,7 +107,7 @@
     "id": "target-golf",
     "name": "Target Golf",
     "x": 52,
-    "y": 94.5,
+    "y": 95.5,
     "description": "Room 139",
     "icon": "target-golf.png"
   },
@@ -115,7 +115,7 @@
     "id": "bottle-flip",
     "name": "Bottle Flip",
     "x": 84.5,
-    "y": 94,
+    "y": 93,
     "description": "Bottle Flip",
     "icon": "bottle-flip.png"
   }
