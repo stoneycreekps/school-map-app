@@ -99,7 +99,7 @@
     "id": "cornhole",
     "name": "Cornhole",
     "x": 52,
-    "y": 88.4,
+    "y": 88.1,
     "description": "Room 138",
     "icon": "cornhole.png"
   },
@@ -114,9 +114,9 @@
   {
     "id": "bottle-flip",
     "name": "Bottle Flip",
-    "x": 85,
-    "y": 93,
-    "description": "Bottle Flip",
+    "x": 85.2,
+    "y": 92.6,
+    "description": "Room 140",
     "icon": "bottle-flip.png"
   }
 ]
