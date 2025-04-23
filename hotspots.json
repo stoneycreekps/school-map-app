@@ -19,7 +19,7 @@
     "id": "photo-booth",
     "name": "Photo Booth",
     "x": 35,
-    "y": 7,
+    "y": 6.5,
     "description": "Room 102 (Staff Room)",
     "icon": "photo-booth.png"
   },
@@ -99,7 +99,7 @@
     "id": "cornhole",
     "name": "Cornhole",
     "x": 52,
-    "y": 87.9,
+    "y": 88.4,
     "description": "Room 138",
     "icon": "cornhole.png"
   },
@@ -107,14 +107,14 @@
     "id": "target-golf",
     "name": "Target Golf",
     "x": 52,
-    "y": 95.5,
+    "y": 96,
     "description": "Room 139",
     "icon": "target-golf.png"
   },
   {
     "id": "bottle-flip",
     "name": "Bottle Flip",
-    "x": 84.5,
+    "x": 85,
     "y": 93,
     "description": "Bottle Flip",
     "icon": "bottle-flip.png"
