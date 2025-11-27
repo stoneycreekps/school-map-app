@@ -42,7 +42,7 @@ export default function InteractiveMap() {
             <img
               src={`${process.env.PUBLIC_URL}/icons/${spot.icon}`}
               alt={spot.name}
-              className="w-12 h-12 object-contain"
+              className="w-9 h-9 object-contain"
             />
           </button>
         </div>
