@@ -73,10 +73,10 @@
   },
   {
     "id": "food_truck",
-    "name": "Food Trucks",
+    "name": "The Grilled Cheezery",
     "x": 30,
     "y": 45,
-    "description": "Food Trucks",
+    "description": "Modified Menu (due to wind)",
     "icon": "food_truck.png"
   },
   {
