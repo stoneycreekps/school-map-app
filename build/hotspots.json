@@ -1,0 +1,90 @@
+[
+  {
+    "id": "welcome",
+    "name": "Welcome",
+    "x": 7.9,
+    "y": 35.8,
+    "description": "Welcome",
+    "icon": "welcome.png"
+  },
+  {
+    "id": "food drive",
+    "name": "Food Drive, Angel Tree, PJ Donation",
+    "x": 24.7,
+    "y": 35.8,
+    "description": "Food Drive, Angel Tree, PJ Donation",
+    "icon": "food_drive.png"
+  },
+  {
+    "id": "drinks_snacks",
+    "name": "Drinks & Snacks",
+    "x": 35,
+    "y": 6.6,
+    "description": "Drinks & Snacks)",
+    "icon": "drinks_snacks.png"
+  },
+  {
+    "id": "crafts",
+    "name": "Crafts, Activities & Display Tables",
+    "x": 35,
+    "y": 35.8,
+    "description": "Crafts, Activities & Display Tables",
+    "icon": "crafts.png"
+  },
+  {
+    "id": "fire_truck",
+    "name": "Fire Truck/Toy Drive",
+    "x": 50,
+    "y": 35.8,
+    "description": "Fire Truck/Toy Drive",
+    "icon": "fire_truck.png"
+  },
+  {
+    "id": "h_and_s",
+    "name": "Home & School",
+    "x": 65,
+    "y": 18,
+    "description": "Home & School",
+    "icon": "h_and_s.png"
+  },
+  {
+    "id": "game_zone",
+    "name": "Game Zone",
+    "x": 85.5,
+    "y": 20.5,
+    "description": "Game Zone",
+    "icon": "game_zone.png"
+  },
+  {
+    "id": "curling",
+    "name": "Curling",
+    "x": 85.5,
+    "y": 44,
+    "description": "Curling",
+    "icon": "curling.png"
+  },
+  {
+    "id": "coca_cola_truck",
+    "name": "Coca Cola Truck",
+    "x": 52,
+    "y": 43.5,
+    "description": "Coca Cola Truck",
+    "icon": "coca_cola_truck.png"
+  },
+  {
+    "id": "food_truck",
+    "name": "Food Trucks",
+    "x": 52,
+    "y": 51.7,
+    "description": "Food Trucks",
+    "icon": "food_truck.png"
+  },
+  {
+    "id": "hockey_shoot_out",
+    "name": "Hockey Shoot Out",
+    "x": 52,
+    "y": 59.5,
+    "description": "Hockey Shoot Out",
+    "icon": "hockey_shoot_out.png"
+  },
+]

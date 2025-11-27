@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/school-map-app/static/css/main.82616119.css",
+    "main.js": "/school-map-app/static/js/main.6ac62666.js",
+    "index.html": "/school-map-app/index.html",
+    "main.82616119.css.map": "/school-map-app/static/css/main.82616119.css.map",
+    "main.6ac62666.js.map": "/school-map-app/static/js/main.6ac62666.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82616119.css",
+    "static/js/main.6ac62666.js"
+  ]
+}
